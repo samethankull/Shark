@@ -1,0 +1,54 @@
+# Etik Ağ İzleme Aracı - Bağımlılıklar
+# Academic Network Monitor - Dependencies
+
+# Paket yakalama ve analiz
+scapy>=2.4.5
+
+# Ağ tarama ve OS tespiti
+python-nmap>=0.6.1
+
+# HTTP istekleri (OUI lookup için)
+requests>=2.25.1
+
+# Ağ topolojisi ve görselleştirme
+networkx>=2.6
+matplotlib>=3.5.0
+
+# Gelişmiş güvenlik testleri (isteğe bağlı)
+paramiko>=2.8.0
+psycopg2-binary>=2.9.0
+pymssql>=2.2.0
+
+# JSON işleme (Python 3.6+ ile birlikte gelir)
+# json - built-in
+
+# Logging (Python 3.6+ ile birlikte gelir)
+# logging - built-in
+
+# Threading (Python 3.6+ ile birlikte gelir)
+# threading - built-in
+
+# Subprocess (Python 3.6+ ile birlikte gelir)
+# subprocess - built-in
+
+# Regular expressions (Python 3.6+ ile birlikte gelir)
+# re - built-in
+
+# Collections (Python 3.6+ ile birlikte gelir)
+# collections - built-in
+
+# DateTime (Python 3.6+ ile birlikte gelir)
+# datetime - built-in
+
+# Time (Python 3.6+ ile birlikte gelir)
+# time - built-in
+
+# OS (Python 3.6+ ile birlikte gelir)
+# os - built-in
+
+# Sys (Python 3.6+ ile birlikte gelir)
+# sys - built-in
+
+# Argparse (Python 3.6+ ile birlikte gelir)
+# argparse - built-in
+
